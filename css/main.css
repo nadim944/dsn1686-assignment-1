@@ -70,6 +70,10 @@ h1 {
 }
 
 @keyframes spin {
+  100% {-webkit-transform: rotate(1turn); }
+}
+
+@keyframes spin {
   100% {transform: rotate(1turn); }
 }
 
