@@ -52,37 +52,12 @@ h1 {
     }
 }
 
-
-@media only screen and (min-width: 20em) {
-  
-  icon-mask {
-    font-size: 2em;
-  
-  }
-  
-    
-}
-
-@media only screen and (min-width: 44em) {
-  
-  icon-mask {
-    font-size: 3em;
-  
-  }
-          
-}
-
-@media only screen and (min-width: 60em) {
-}
-
-
-
 .icon-logo {
-  font-size: 6em;
+  font-size: 7em;
   position: relative;
   color: #fff;
   z-index: 1;
-  margin: 0 27%;
+  margin: 0 30%;
   animation: spin 2s linear infinite;
   animation-play-state: paused; 
 }
