@@ -1,3 +1,4 @@
+@@ -0,0 +1,31 @@
 @-moz-viewport { width: device-width; scale: 1; }
 @-ms-viewport { width: device-width; scale: 1; }
 @-o-viewport { width: device-width; scale: 1; }
@@ -25,7 +26,25 @@ body {
   background-color: black;
 }
 
+.icon-logo {
+  font-size: 5em;
+  position: absolute;
+  color: #fff;
+}
+
+.icon-mask {
+  font-size: 5em;
+  position: absolute;
+  color: #fff;
+  
+}
+
+
+
 h1 {
   color: #fff;
-
+  text-align: center;
+  font-size: 10em;
+  
 }
+
